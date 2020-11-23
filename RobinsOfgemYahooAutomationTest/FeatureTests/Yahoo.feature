@@ -9,4 +9,4 @@
 	Given I have logged into Yahoo with the email 'OfgemAutomationTest@yahoo.com' and Password 'Ofgem12345'
 	And I enter the most recent email with the subject 'Ofgem Automation Test' to Check the body text
 	When The email body contains 'Hello Ofgem' I delete the email, Otherwise I move it into the Junk folder
-	Then The email should be in the correct place and state
+	Then The email should be in the correct place

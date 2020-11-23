@@ -115,7 +115,7 @@ namespace RobinsOfgemGmailAutomationTest.FeatureTests
                         "o the Junk folder", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
 #line 12
- testRunner.Then("The email should be in the correct place and state", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.Then("The email should be in the correct place", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();

@@ -30,7 +30,7 @@ namespace RobinsOfgemYahooAutomationTest.StepDefinitions
             }
         }
 
-        [Then(@"The email should be in the correct place and state")]
+        [Then(@"The email should be in the correct place")]
         public void VerifyEmailInCorrectFolder()
         {
             AccessFolderForEmail();

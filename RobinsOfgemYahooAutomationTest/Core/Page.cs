@@ -1,5 +1,5 @@
-﻿using RobinsOfgemYahooAutomationTest.PageObjects;
-using SeleniumExtras.PageObjects;
+﻿using OpenQA.Selenium.Support.PageObjects;
+using RobinsOfgemYahooAutomationTest.PageObjects;
 
 namespace RobinsOfgemYahooAutomationTest.Core
 {

@@ -1,6 +1,9 @@
 # RobinsOfgemYahooAutomationTest
 The automated testing tool in use at the moment is Selenium using the SpecFlow pattern and Page Object Model, this is currently only targeting Chrome.
 
+Important!! - Please ensure the version of the package Selenium.Webdriver.Chromedriver you are using matches your current version of Chrome
+If when running the tests you get a Yellow warning triangle, this is usually why.
+
 The following details How to Upgrade Specflow to use Specflow Accounts if you have not already done so.
 
 Upgrade Process:

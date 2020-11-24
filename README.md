@@ -15,7 +15,7 @@ Log in with your Microsoft Account and proceed to create an Account with Specflo
 You will see a confirmation that your account has been created.
 Rebuild your test solution (you may have to exit and reopen VS or Run the tests).
 In the Test Output you should now see:
-"Checking activation
+"Checking activation.
 Activated.
 Activation check completed"
 From the test explorer you can now run your tests.
